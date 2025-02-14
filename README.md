@@ -7,4 +7,4 @@ for individuals seeking quick guidance on minor ailments.It provides services th
 <h2>We can execute this project on localhost by using requirements.txt file libraries </h2>
 
 
-#Happy Learning and Coding..!!😊
+# Happy Learning and Coding..!!😊
